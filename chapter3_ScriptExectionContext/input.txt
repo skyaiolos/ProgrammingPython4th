@@ -1,0 +1,2 @@
+Hello stream world
+Enter a number (type "exit" or "e" you can quit the loop)>
